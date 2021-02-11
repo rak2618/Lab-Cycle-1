@@ -5,8 +5,7 @@ E3 Experiment Numerical Analysis Code
 Four Files have been included, One for each stage of the experiment. 
 
 
-1)Calibration:
-
+1) Calibration:
         Plots Gaussians over raw data from csv file. Make sure to have the csv file in the same folder so it can find the data.
         This program is difficult to use as it requires modifying for everytime a new Gaussian is plotted, however the results have been directly typed into the             the next file.
 
